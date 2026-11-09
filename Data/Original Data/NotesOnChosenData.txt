@@ -1,0 +1,8 @@
+We chose ten of the participants because we believe it gives a good variety of data to feed to the model while keeping in mind limited storage and demanding script run times.
+
+The choices avoid a known problem in the dataset. Participants 1-41 had inconsistent motion sampling rates due to a software issue so we avoided those. 
+
+Each chosen participant has their motion and gaze recordings. There is some missing data but the main files we need are included for all of them.
+
+Each of the choices have two recording sessions allowing us to train our classifier on one and use the other for the testing.
+
