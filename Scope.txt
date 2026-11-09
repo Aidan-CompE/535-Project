@@ -1,0 +1,6 @@
+Nov 8 Entry:
+- Ten participants
+- Two sessions. First session will be for training and second will be for testing.
+- 5 minute training window per participant. Subject to change since we do not know what results to expect on first experiment.
+- Sensor groups will be head, controllers, and eye gaze. This covers the original goal of the project as per the class slides without overcommitting anything.
+- The model we will try first will be a random forest since it is a supervised model that Aidan is familiar with
